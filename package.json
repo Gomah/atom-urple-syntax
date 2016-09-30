@@ -1,0 +1,16 @@
+{
+  "name": "atom-urple-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Urple Syntax theme",
+  "keywords": [
+    "dark",
+    "purple",
+    "syntax"
+  ],
+  "repository": "https://github.com/Gomah/atom-urple-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
