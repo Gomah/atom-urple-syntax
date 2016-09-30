@@ -1,7 +1,7 @@
 {
   "name": "atom-urple-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Urple Syntax theme",
   "keywords": [
     "dark",
