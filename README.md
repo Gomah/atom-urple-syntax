@@ -1,6 +1,6 @@
 ## Urple Syntax theme
 
-![urple-syntax](https://cloud.githubusercontent.com/assets/2362138/18981847/100f3c1a-8725-11e6-97a0-c93220ad9b99.png)
+![urple-syntax](https://cloud.githubusercontent.com/assets/2362138/19098066/d83d5eaa-8af5-11e6-98bc-d87ff14f0f1d.png)
 
 > The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
 
